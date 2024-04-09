@@ -1,0 +1,2890 @@
+[
+    {
+        "Word": "welcome",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "Ted",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "interview",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "I'm",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Chris",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Andersen",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "this",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "is",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "podcast",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Series",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "where",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "sit",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "down",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "with",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Ted",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "speaker",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "we",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "get",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "dive",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "much",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "deeper",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "into",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "their",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "ideas",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "possible",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "during",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "their",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "TED",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Talk",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "today",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "couldn't",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "be",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "more",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "excited",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "because",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "I'm",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "here",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "with",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "none",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "other",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "than",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Sir",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Ken",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Robinson",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "so",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Ken",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "is",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "man",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "responsible",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "for",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "most",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "viewed",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Ted",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Talk",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "all",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "time",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "it's",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "been",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "seen",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "more",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "than",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "50",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "million",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "times",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "now",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "A",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "talk",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "called",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "do",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "schools",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "kill",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "creativity",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "he",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "recorded",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "it",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "back",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "in",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "2006",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "it",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "1",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "first",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "6",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "TED",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Talks",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "that",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "we",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "ever",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "released",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "probably",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "that",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "talk",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "did",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "as",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "much",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "as",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "any",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "other",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "really",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "put",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "TED",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Talks",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "as",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "whole",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "on",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "map",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "had",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "great",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "story",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "recently",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "little",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "girl",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "who",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "in",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "drawing",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "lesson",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "she",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "6",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "she",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "at",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "back",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "drawing",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "teacher",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "said",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "this",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "little",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "girl",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "how",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "ever",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "paid",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "attention",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "in",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "this",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "drawing",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "lesson",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "she",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "did",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "teacher",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "fascinated",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "she",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "went",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "over",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "her",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "she",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "said",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "what",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "are",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "you",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "drawing",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "girl",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "said",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "I'm",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "drawing",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "picture",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "God",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "teacher",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "said",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "but",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "nobody",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "knows",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "what",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "God",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "looks",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "like",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "girl",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "said",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "they",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "went",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "in",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "minute",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "idea",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "he",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "spoke",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "about",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "seemed",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "really",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "strike",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "nerve",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "with",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "people",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "it",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "felt",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "as",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "if",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "millions",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "millions",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "people",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "around",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "world",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "had",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "had",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "this",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "experience",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "being",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "at",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "school",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "somehow",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "their",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "own",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "creativity",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "not",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "being",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "heard",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "or",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "recognized",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "or",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "felt",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "or",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "developed",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "properly",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "believe",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "this",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "passionately",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "that",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "we",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "don't",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "grow",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "into",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "creativity",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "we",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "grow",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "out",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "it",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "or",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "rather",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "than",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "we",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "get",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "educated",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "out",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "it",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Ken",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "has",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "been",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "scholar",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Education",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "pretty",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "much",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "all",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "his",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "life",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "as",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "professor",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "policy",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "adviser",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "an",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "author",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "I'm",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "so",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "excited",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "today",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "have",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "chance",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "ask",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "him",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "more",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "about",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "his",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "ideas",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Sir",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Ken",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Robinson",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "welcome",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "it's",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "real",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "pleasure",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "Chris",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "thank",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "you",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "why",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "don't",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "we",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "start",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "by",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "finding",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "out",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "bit",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "about",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "you",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "your",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "own",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "education",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "well",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I'm",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "from",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "Liverpool",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "born",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "there",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "in",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "1950",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I'm",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "1",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "7",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "children",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "we",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "grew",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "up",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "with",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "no",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "money",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "we",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "weren't",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "aware",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "it",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "which",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "1",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "by",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "way",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I'm",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "Number",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "5",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "number",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "5",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "so",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "you",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "had",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "you",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "had",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "really",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "carve",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "out",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "some",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "attention",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "in",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "family",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "well",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "yes",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "mean",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "that",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "my",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "first",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "3",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "siblings",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "all",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "had",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "middle",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "names",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "my",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "parents",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "kind",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "ran",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "out",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "steam",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "down",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "they",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "got",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "my",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "end",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "list",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "just",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "glad",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "not",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "be",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "called",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "5",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "so",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "yeah",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "so",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "grew",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "up",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "there",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "um",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "had",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "no",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "idea",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "growing",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "up",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "what",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "might",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "ever",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "go",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "on",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "do",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "if",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "ever",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "go",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "on",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "do",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "anything",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "at",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "all",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "so",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "always",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "been",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "big",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "theme",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "in",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "work",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "do",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "that",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "we",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "create",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "our",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "own",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "lives",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "it",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "doesn't",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "really",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "matter",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "where",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "you",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "start",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "from",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "uh",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "as",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "child",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "you",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "were",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "hit",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "by",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "quite",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "severe",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "onus",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "will",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "you",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "will",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "you",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "talk",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "about",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "that",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "yeah",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "until",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "4",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "my",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "father",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "convinced",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "going",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "be",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "family",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "soccer",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "player",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "showed",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "an",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "early",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "in",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "precocious",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "talent",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "for",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "evidently",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "you",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "know",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "strong",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "quick",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "had",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "good",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "eye",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "hand",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "coordination",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "my",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "dad",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "had",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "been",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "semi-professional",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "football",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "player",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "himself",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "but",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "in",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "early",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "50s",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "there",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "an",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "epidemic",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "polio",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "myelitis",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "which",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "spread",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "right",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "across",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "Europe",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "North",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "America",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "got",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "it",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "yeah",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "so",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "at",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "age",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "4",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "uh",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "in",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "hospital",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "with",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "polio",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "in",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "for",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "8",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "months",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "you",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "know",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "paralyzed",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "overnight",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "pretty",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "much",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "thrown",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "into",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "uh",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "world",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "special",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "education",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "went",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "actually",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "in",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "early",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "50s",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "people",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "went",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "very",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "good",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "at",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "euphemisms",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "we",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "hadn't",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "really",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "got",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "hang",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "them",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "so",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "so",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "went",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "to",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "Margaret",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "bevon",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "school",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "for",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "physically",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "handicapped",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "where",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "I",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "was",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "in",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "company",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "a",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "lot",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "other",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "people",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "with",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "you",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "know",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "calipers",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "braces",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "in",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "wheelchairs",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "various",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "sorts",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "of",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "uh",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "physical",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "illnesses",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "or",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "or",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "handicaps",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "and",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "through",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "the",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "whole",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "family",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "is",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "that",
+        "Speaker_tag": 1
+    },
+    {
+        "Word": "world",
+        "Speaker_tag": 1
+    }
+]
