@@ -1,6 +1,6 @@
 from google.cloud import speech
 
-def speech_to_text(gcs_uri: str, credentials: str):
+def speech_to_text(gcs_uri: str, credentials: str, speakers=(2,2)):
     """Asynchronously transcribes the audio file specified by the gcs_uri.
 
     Args:
@@ -15,10 +15,14 @@ def speech_to_text(gcs_uri: str, credentials: str):
 
     # ---------------------------------------------------------------------
     audio = speech.RecognitionAudio(uri=gcs_uri)
+
+    print(f"Google Cloud Storage: {gcs_uri}\nWaiting for Speech-to-Text to complete...")
+    print(f"Speak diarization - min:{speakers[0]}, max:{speakers[1]}")
+    if speakers == (1, 1): speakers = (2, 2)
     diarization_config = speech.SpeakerDiarizationConfig(
         enable_speaker_diarization=True,
-        min_speaker_count=2,
-        max_speaker_count=7,
+        min_speaker_count=speakers[0],
+        max_speaker_count=speakers[1],
     )
     config = speech.RecognitionConfig(
         encoding=speech.RecognitionConfig.AudioEncoding.LINEAR16, # For .wav with 16000 sampling rate
@@ -29,13 +33,12 @@ def speech_to_text(gcs_uri: str, credentials: str):
     operation = client.long_running_recognize(config=config, audio=audio)
 
     # ---------------------------------------------------------------------
-    print("Waiting for operation to complete...\n")
     response = operation.result(timeout=300)
 
     # ---------------------------------------------------------------------
-    script_conf_pairs = []
     # Each result is for a consecutive portion of the audio. Iterate through
     # them to get the transcripts for the entire audio file.
+    script_conf_pairs = []
     for result in response.results:
         # The first alternative is the most likely one for this portion.
         script_conf_pairs.append({"Transcript": result.alternatives[0].transcript,
@@ -52,9 +55,8 @@ def speech_to_text(gcs_uri: str, credentials: str):
         word_tag_pairs.append({"Word":word_info.word,
                              "Speaker_tag":word_info.speaker_tag})    
 
+    print("Completed!")
     return script_conf_pairs, word_tag_pairs
-
-
 
 def generate_transcript_with_tag(word_tag_pairs):
 
@@ -65,14 +67,21 @@ def generate_transcript_with_tag(word_tag_pairs):
     sentence = []
     transcript = []
     for i, t in enumerate(tags):
+        
+        # Initialize
         if i == 0:
             current = t
             sentence.append(words[i])
             continue
+
         if current != t:
             transcript.append({"Speaker":current, "Contents":' '.join(sentence)})
             current, sentence = t, [words[i]]
         else:
             sentence.append(words[i])
+
+    # Append Last script
+    transcript.append({"Speaker":current, "Contents":' '.join(sentence)})
     
+    print(f"Generated Transcript! {len(transcript)}")
     return transcript
