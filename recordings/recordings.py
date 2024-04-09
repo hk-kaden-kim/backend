@@ -39,7 +39,7 @@ def save_audio(audio_path:str, audio, sr):
     sf.write(new_audio_path, audio, sr)
     print(f"{audio_path}\nconverted to {format_to} and resampled to {sr} Hz.\nSaved as {new_audio_path}")
 
-    return
+    return new_audio_path
 
 def check_and_convert_audio(audio_path):
     """
@@ -65,9 +65,9 @@ def check_and_convert_audio(audio_path):
 
     # Convert the file into .wav with 16k sample rate.
     audio, sr = load_audio(audio_path)
-    save_audio(audio_path, audio, sr)
+    new_audio_path = save_audio(audio_path, audio, sr)
     
-    return
+    return new_audio_path
 
 def get_audio_files_in_folder(folder_path):
     """
