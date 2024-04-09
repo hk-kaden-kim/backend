@@ -56,17 +56,21 @@ def check_and_convert_audio(audio_path):
         print(f"File {audio_path} does not exist.")
         return
     
-    # Get the file extension
-    _, ext = os.path.splitext(audio_path)
+    audio_file = audio_path.split('/')[-1]
+    name, ext = os.path.splitext(audio_file)
 
     # Check if the file is in .wav format
     if ext.lower() == ".wav":
-        print(f"{audio_path} is already in .wav format.")
-
+        print(f"{audio_file} is already in .wav format.")
+        if name.split('_')[-1] == '16k':
+            print(f"{audio_file} has already 16k sample rate.")
+            return audio_path
+        
     # Convert the file into .wav with 16k sample rate.
     audio, sr = load_audio(audio_path)
     new_audio_path = save_audio(audio_path, audio, sr)
     
+    print(f"Checked and converted audio file!")
     return new_audio_path
 
 def get_audio_files_in_folder(folder_path):
@@ -85,4 +89,6 @@ def get_audio_files_in_folder(folder_path):
             _, ext = os.path.splitext(file)
             if ext.lower() in [".wav", ".mp3", ".flac", ".ogg"]:
                 audio_files.append(os.path.join(root, file))
+    
+    print(f"Audio file detected! {len(audio_files)}")
     return audio_files
