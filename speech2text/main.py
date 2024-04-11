@@ -21,8 +21,8 @@ if __name__ == "__main__":
 
         transcript = sp2txt.generate_transcript_with_tag(word_tag_pairs)
         
-        # speaker = ['Marcus', 'Paul', 'David', 'Anna/Sally', 'Maja']
-        # transcript_txt = trs.convert_transcript_json2txt(transcript, speaker)
+        speaker = speaker_info_lst[idx]['speakers']
+        transcript_txt = trs.convert_transcript_json2txt(transcript, speaker)
 
         print()
 
@@ -41,8 +41,8 @@ if __name__ == "__main__":
         transcript_json_path = os.path.join(save_root, 'transcript.json')
         trs.save_result(transcript_json_path, transcript)
 
-        # transcript_txt_path = transcript_json_path.replace('.json', '.txt')
-        # trs.save_result(transcript_txt_path, transcript_txt)
+        transcript_txt_path = transcript_json_path.replace('.json', '.txt')
+        trs.save_result(transcript_txt_path, transcript_txt)
 
         print()
         print()

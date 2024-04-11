@@ -26,18 +26,18 @@ gcs_uri_wav = {
 
 speaker = {
     "biz-meeting":  
-                    [{"min_max" : (2, 6), "speakers" : ['Anna', 'David', 'Maja', 'Marcus', 'Paul', 'Sally']},
-                     {"min_max" : (2, 4), "speakers" : ['Anna', 'David', 'Maja', 'Marcus']},
-                     {"min_max" : (2, 4), "speakers" : ['Anna', 'David', 'Maria', 'Paul']},
-                     {"min_max" : (2, 3), "speakers" : ['Karina', 'Maria', 'Paul']},],
+                    [{"min_max" : (2, 6), "speakers" : ['Marcus', 'Paul', 'David', 'Anna', 'Maja', 'Sally']},
+                     {"min_max" : (2, 4), "speakers" : ['Marcus', 'Maja', 'Anna', 'David']},
+                     {"min_max" : (2, 4), "speakers" : ['Paul', 'Maria', 'David', 'Anna']},
+                     {"min_max" : (2, 3), "speakers" : ['Paul', 'Maria', 'Karina']},],
 
     "debating":     
-                     [{"min_max" : (2, 3), "speakers" : ['BIDEN', 'RADDATZ', 'RYAN']},
+                     [{"min_max" : (2, 3), "speakers" : ['RADDATZ', 'BIDEN', 'RYAN']},
                      {"min_max" : (2, 3), "speakers" : ['LEHRER', 'OBAMA', 'ROMNEY']},
-                     {"min_max" : (2, 7), "speakers" : ['Maximoff', 'Rhodes', 'Rogers', 'Romanoff', 'Stark', 'Vision', 'Wilson']},
-                     {"min_max" : (2, 2), "speakers" : ['MIA', 'SEBASTIAN']},
-                     {"min_max" : (2, 2), "speakers" : ['CHARLIE', 'NICOLE']},
-                     {"min_max" : (2, 2), "speakers" : ['HASSAN', 'KEANE']},],
+                     {"min_max" : (2, 7), "speakers" : ['Rhodes', 'Romanoff', 'Maximoff', 'Rogers', 'Stark', 'Vision', 'Wilson']},
+                     {"min_max" : (2, 2), "speakers" : ['SEBASTIAN', 'MIA']},
+                     {"min_max" : (2, 2), "speakers" : ['NICOLE', 'CHARLIE']},
+                     {"min_max" : (2, 2), "speakers" : ['KEANE', 'HASSAN']},],
 
     "interview":    
                      [{"min_max" : (2, 2), "speakers" : ['Chris', 'Robin']},
