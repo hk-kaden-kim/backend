@@ -1,37 +1,5 @@
 [
     {
-        "Word": "right",
-        "Speaker_tag": 1
-    },
-    {
-        "Word": "now",
-        "Speaker_tag": 1
-    },
-    {
-        "Word": "A",
-        "Speaker_tag": 2
-    },
-    {
-        "Word": "respectful",
-        "Speaker_tag": 2
-    },
-    {
-        "Word": "that's",
-        "Speaker_tag": 2
-    },
-    {
-        "Word": "not",
-        "Speaker_tag": 1
-    },
-    {
-        "Word": "the",
-        "Speaker_tag": 1
-    },
-    {
-        "Word": "issue",
-        "Speaker_tag": 1
-    },
-    {
         "Word": "I",
         "Speaker_tag": 1
     },
@@ -201,11 +169,11 @@
     },
     {
         "Word": "a",
-        "Speaker_tag": 1
+        "Speaker_tag": 2
     },
     {
         "Word": "little",
-        "Speaker_tag": 1
+        "Speaker_tag": 2
     },
     {
         "Word": "about",
@@ -288,7 +256,7 @@
         "Speaker_tag": 2
     },
     {
-        "Word": "know",
+        "Word": "well",
         "Speaker_tag": 1
     },
     {
@@ -360,7 +328,11 @@
         "Speaker_tag": 2
     },
     {
-        "Word": "injil",
+        "Word": "angel",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "of",
         "Speaker_tag": 2
     },
     {
@@ -372,11 +344,11 @@
         "Speaker_tag": 2
     },
     {
-        "Word": "was",
+        "Word": "would",
         "Speaker_tag": 2
     },
     {
-        "Word": "revealed",
+        "Word": "reveal",
         "Speaker_tag": 2
     },
     {
@@ -424,7 +396,11 @@
         "Speaker_tag": 2
     },
     {
-        "Word": "so",
+        "Word": "see",
+        "Speaker_tag": 2
+    },
+    {
+        "Word": "if",
         "Speaker_tag": 2
     },
     {
@@ -608,6 +584,10 @@
         "Speaker_tag": 2
     },
     {
+        "Word": "and",
+        "Speaker_tag": 2
+    },
+    {
         "Word": "people",
         "Speaker_tag": 2
     },
@@ -726,10 +706,6 @@
     {
         "Word": "relevant",
         "Speaker_tag": 1
-    },
-    {
-        "Word": "do",
-        "Speaker_tag": 2
     },
     {
         "Word": "we",
@@ -1344,7 +1320,7 @@
         "Speaker_tag": 2
     },
     {
-        "Word": "at",
+        "Word": "I",
         "Speaker_tag": 2
     },
     {
@@ -1636,7 +1612,7 @@
         "Speaker_tag": 2
     },
     {
-        "Word": "weekend",
+        "Word": "King",
         "Speaker_tag": 2
     },
     {
