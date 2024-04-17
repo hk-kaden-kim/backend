@@ -26,7 +26,8 @@ LOCATION = "us-central1"  # @param {type:"string"}
 vertexai.init(project=PROJECT_ID, location=LOCATION)
 generation_model = GenerativeModel("gemini-1.0-pro")
 generation_config = GenerationConfig(temperature=0.2, max_output_tokens=256, top_k=40, top_p=0.8)
-def generate_summary(transcript_json, category=None, custom_prompt=None):
+
+def generate_summary(transcript_json=None, category=None, custom_prompt=None):
     """
     Generate summary based on either a selected category with a specific template
     or a custom prompt provided by the user.
